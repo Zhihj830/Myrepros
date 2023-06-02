@@ -55,4 +55,42 @@
    * 乔丹
    * 姚明
 2. 足球
-3. 羽毛球:
+3. 羽毛球
+
+# 表格
+
+名称|技能|排名
+---|:--:|---:
+刘备|跑|1
+关羽|忍痛|2
+张飞|睁眼睡觉|3
+
+# 代码插入
+
+```c
+#include <stdio.h>
+int main(void)
+{
+	printf("C\n");
+	return 0;
+}
+```
+
+```cpp
+#include <iostream>
+using name std;
+int main(void)
+{
+	cin << "C++" <<endl;
+}
+```
+```python
+	import std;
+
+```
+
+```bash
+	echo "数据回显命令"
+	ps aux "进程查看"
+	netstate -apn "查看网络设备"
+```
